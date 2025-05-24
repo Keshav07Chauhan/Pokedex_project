@@ -1,8 +1,5 @@
-# React + Vite
+In Pokedex_project,	
+*Developed a React application to interact with the Pokmon API using HTML, CSS, JavaScript, React.js,MongoDB
+*The application will allow users to input a Pokmon's name and retrieve detailed information, including its type, abilities, stats, and image.
+*This project will involve API integration, data parsing, and user interface development to create a dynamic and informative Pokmon information tool.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
